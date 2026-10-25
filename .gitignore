@@ -1,0 +1,11 @@
+__pyache__/
+*.pyc
+
+build/
+dist/
+*.spec
+
+temporizadores.json
+historial.json
+
+.vscode/
